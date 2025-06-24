@@ -38,7 +38,8 @@ ejemplobase.php
 
 ## 📸 Demo Screenshot
 
-![Form Preview](./path/to/screenshot.png) <!-- Replace with actual path -->
+![image](https://github.com/user-attachments/assets/205a20d6-b812-4e34-a059-1788e9b24c1f)
+ <!-- Replace with actual path -->
 
 ## 🚀 How to Run
 
@@ -62,10 +63,8 @@ Developed as part of a lab exercise to demonstrate full-stack validation techniq
 
 ## 💡 Author
 
-**[Your Name]**  
+**Omar Jaramillo**  
 Student at Universidad Tecnológica de Panamá  
-[LinkedIn profile] | [GitHub profile]
+www.linkedin.com/in/ojaramillo 
 
 ---
-
-> ⭐ Tip: Customize the repository name (e.g., `form-validator-fullstack-php-js`) to make it more attractive to recruiters.
